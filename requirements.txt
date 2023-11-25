@@ -1,0 +1,6 @@
+numpy
+librosa
+fastdtw
+fuzzywuzzy
+scikit-learn
+dtw
